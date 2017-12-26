@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+ <title>El tiempo</title>
+ <description>Da el tiempo 24 horas en tu localidad</description>
+ <link>http://www.eltiempo24.es/localidad</link>
+ <language> es-ES </language>
+ <lastBuildDate>Tue, 12 Dec 2017 23:00:00 +0000 </lastBuildDate>
+ <pubDate>Tue, 12 Dec 2017 23:34:00 +0000 </pubDate>
+
+
+ <item>
+  <title>El tiempo en Villaviciosa de Odon</title>
+  <description>Noticia sobre tiempo</description>
+  <link>https://lloren27.github.io/Noticia-Tiempo-RSS/</link>
+  <guid>https://lloren27.github.io/Noticia-Tiempo-RSS/</guid>
+  <pubDate>Tue, 12 Dec 2017 23:34:00 +0000 </pubDate>
+ </item>
+
+</channel>
+</rss>
